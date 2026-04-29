@@ -5,7 +5,7 @@ import Home from "./components/Home";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import './App.css'
-import { useAuthContext } from "./context/AuthContext";
+// import { useAuthContext } from "./context/AuthContext";
 import Products from "./components/Products";
 
 
