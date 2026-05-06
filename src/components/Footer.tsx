@@ -60,7 +60,7 @@ function Footer() {
       {/* Copyright */}
       <div className="footer-bottom">
         <div className="footer-bottom-content">
-          <p>© 2025 Thương hiệu Tâm Nhỉ. Tất cả các quyền được bảo lưu.</p>
+          <p>© 2025 Thương hiệu Tâm Nhĩ. Tất cả các quyền được bảo lưu.</p>
           <div className="payment-methods">
             <span>Thanh toán an toàn:</span>
             <span>VnPay</span>

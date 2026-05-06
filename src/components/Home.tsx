@@ -1,7 +1,6 @@
 import React, { useLayoutEffect, useEffect, useRef } from 'react';
 import '../assets/home.css';
 import banner from '../assets/image/banner.jpeg';
-import waterfall from '../assets/image/waterfall1.jpg';
 import dongchay1 from '../assets/image/dongchay.png';
 import dongchay2 from '../assets/image/dongchay2.jpg';
 import img1 from '../assets/image/food1.jpg'
